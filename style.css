@@ -267,6 +267,7 @@ main {
                 z-index: 2;
                 --puff-color: #ff78b6;
                 --puff-check-color: #e4e43b;
+                --puff-check-theme: #272d5d;
 
                 span {
                     background: transparent;
@@ -436,7 +437,7 @@ main {
         }
 
         /* beweging: center */
-        #center:checked~div>div:nth-of-type(2) {
+        #center:checked ~ div > div:nth-of-type(2) {
             transform: translate(-50%, -50%) translateX(0);
         }
 
@@ -454,8 +455,8 @@ main {
         }
 
         /* beweging: jump */
-        #jump:checked~div>div:nth-of-type(2) {
-            /* top: 40%; */
+        #jump:checked ~ div >div:nth-of-type(2) {
+         
             animation-name: jump-puff;
             animation-duration: .8s;
             animation-timing-function: ease-in-out;
@@ -465,8 +466,9 @@ main {
         }
         #power:checked ~ div > div:nth-of-type(2) {
             --puff-color:#e4e43bfb;
-          
-           
+        }
+        #theme:checked ~ div > div:nth-of-type(2) {
+            --puff-color: #5a67c6;
         }
 
     }

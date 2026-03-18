@@ -19,8 +19,8 @@ Omdat ik merkte dat de tijd snel ging, besloot ik me eerst goed te verdiepen in 
 In de ochtend begonnen we met presentaties waarin iedereen liet zien wat hij of zij de dag ervoor had gemaakt.
 
 Dit was mijn resultaat van dag 1. Gezien de beperkte tijd was het een passend experiment. Mijn oorspronkelijke idee was om een echt “gooey effect” te maken, maar dat bleek meer tijd te kosten dan verwacht. Daarom heb ik mijn plan aangepast.
+![alt text](<Scherm­afbeelding 2026-02-18 om 14.30.54.png>) 
 ![alt text](<Scherm­afbeelding 2026-02-18 om 15.44.06.png>)
-![alt text](<Scherm­afbeelding 2026-02-19 om 15.07.01.png>)
 Tijdens het werken heb ik geleerd:
 
 Hoe een CSS-filter daadwerkelijk invloed heeft op de kleuren en visuele uitstraling van een element
@@ -47,11 +47,17 @@ Van alle ideeën in de control panel koos ik voor het piano-concept. Het lijkt m
 
 
 ### Wat heb ik vandaag gedaan?
+Vandaag heb ik verder gewerkt aan de interactieve interface voor mijn project. Uiteindelijk heb ik ervoor gekozen om een personage te tekenen dat op Kirby lijkt, omdat ik dat leuk vind, en om het te animeren, wat kleur te geven en de texturen aan te passen. Ik heb nog geen idee hoe het er uiteindelijk uit zal zien, maar ik wil het met pixelart tekenen.
 
-Vandaag heb ik verder gewerkt aan de interactieve interface van mijn project.
-Ik heb knoppen gemaakt voor **beweging** (links, midden, rechts) en **acties** (springen, power en thema). Deze knoppen zijn gekoppeld aan verborgen radio buttons en checkboxes.
+Dus ben ik begonnen met het tekenen van de span en heb ik geprobeerd de vorm in de CSS te tekenen.
 
-Daarna heb ik met CSS de interactie toegevoegd. Met `:checked` kan de positie van het karakter veranderen, bijvoorbeeld naar links of rechts bewegen of omhoog springen.
+![alt text](<Scherm­afbeelding 2026-03-04 om 14.18.46.png>)
+![alt text](<Scherm­afbeelding 2026-03-04 om 15.05.15.png>)
+
+Ik heb knoppen ontworpen voor **beweging** (links, midden, rechts) en **acties** (springen, kracht en thema). Deze knoppen zijn gekoppeld aan selectieknoppen en verborgen selectievakjes.
+
+Daarna heb ik interactie toegevoegd met behulp van CSS. Met `:checked` kan de positie van het personage worden gewijzigd, bijvoorbeeld naar links of rechts bewegen of omhoog springen.
+
 
 In de tweede helft van het werk heb ik een **pixel-art karakter** gemaakt. Hiervoor heb ik een grid van **12 × 12 (144 spans)** gebruikt. Met `nth-child()` heb ik specifieke pixels gekleurd om stap voor stap de vorm van het karakter te tekenen.
 
@@ -73,7 +79,8 @@ Morgen wil ik het karakter verder verbeteren door:
 * de vorm en het gezicht duidelijker te maken
 * extra visuele effecten toe te voegen
 * en de animaties van de acties (zoals jump en power) verder te verfijnen.
-
+![alt text](<Scherm­afbeelding 2026-03-12 om 11.26.53.png>) 
+![alt text](<Scherm­afbeelding 2026-03-12 om 11.19.36.png>)
 
 
 
