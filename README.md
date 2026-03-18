@@ -201,3 +201,31 @@ De paginalay-out veranderde en er verscheen ongewenste witruimte en inconsistent
 Het resultaat is dat het ontwerp consistenter en visueel beter in balans is op verschillende schermformaten.
 ![alt text](<Scherm­afbeelding 2026-03-18 om 13.26.49.png>) 
 ![alt text](<Scherm­afbeelding 2026-03-18 om 13.26.42.png>)
+
+
+## Reflectie
+
+### Het eindresultaat
+Ik heb een interactief personage ontworpen met behulp van CSS, inclusief animaties (springen, naar rechts/links) en extra elementen zoals wolken en gras.
+
+Wat goed ging / waar ik tegenaan liep
+Het positioneren en de basisanimaties zijn goed gelukt.
+
+Het integreren van de animaties en het corrigeren van kleine CSS-fouten was lastig. Zoals de afstanden, waarden of het tekenen van de karakters zelf met behulp van de span.
+
+### Waar ik trots op ben
+Dat alles werkt met alleen CSS (zonder JavaScript) en dat het personage er nu levendiger uitziet.
+Ik ben ook trots op het thema dat ik heb gekozen, dat ik erg mooi vind.
+
+### Mislukte experimenten
+Sommige animatiewaarden werkten niet goed, wat tot vreemde bewegingen leidde. Ik heb ook verschillende manieren geprobeerd om het personage op te bouwen. Een daarvan was dat het gezicht ook omhoog zou gaan bij het omhoog springen, maar dat lukte niet.
+
+### Nieuwe inzichten
+-CSS is krachtiger dan ik dacht. 
+-Kleine veranderingen (zoals transformaties) maken een groot verschil.
+-Animatie wel leuk om mee te spelen!
+
+
+### Verdere verkenning
+Geavanceerdere animaties en beter gebruik van containerquery's.
+
