@@ -93,8 +93,8 @@ Omdat ik nu vooral met <span> elementen werk voor de weergave van het gezicht, g
 
 Een mogelijke aanpak is om de standaardstijl van de input te verwijderen en de input boven een label te plaatsen:
 
-```css
-label {
+
+/* label {
   position: relative;
 }
 
@@ -109,13 +109,16 @@ input {
 
 input:checked {
   background-color: blue;
-}
+} */
+
 CSS-criteria van de opdracht
 
 We bespraken ook een van de criteria van de opdracht:
 
-Use at least two of the following CSS techniques in a useful way:
-CSS nesting, @layer, container queries, style queries, @function, if().
+/* Use at least two of following CSS techniques
+in a useful way: CSS nesting, @layer, container
+queries, style queries, @function, if(). */
+
 
 Sanne adviseerde om minstens twee of drie van deze technieken te gebruiken.
 Ze liet ook voorbeelden zien op DLO waar we inspiratie uit kunnen halen.
