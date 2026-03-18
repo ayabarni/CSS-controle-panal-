@@ -551,11 +551,11 @@ main {
 /* rain */
 @keyframes rain {
     from {
-        transform: translateY(-7px);
+        transform: translateY(-3px);
     }
 
     to {
-        transform: translateY(7px);
+        transform: translateY(3px);
 
 
     }
