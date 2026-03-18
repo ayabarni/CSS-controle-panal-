@@ -155,7 +155,8 @@ Hiervoor heb ik bewust een pakkend en speels lettertype gekozen dat past bij de 
 Ik heb ook een tweede thema toegevoegd.
 
 In plaats van de gebruikelijke donkere modus heb ik gekozen voor het **Regenthema**.
-
+![alt text](<Scherm­afbeelding 2026-03-17 om 21.53.01.png>) 
+![alt text](<Scherm­afbeelding 2026-03-17 om 22.28.17.png>)
 Wanneer de gebruiker op de regenknop drukt, verandert de sfeer van de gebruikersinterface:
 
 - De achtergrond wordt donker.
