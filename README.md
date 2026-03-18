@@ -237,3 +237,7 @@ Sommige animatiewaarden werkten niet goed, wat tot vreemde bewegingen leidde. Ik
 ### Verdere verkenning
 Geavanceerdere animaties en beter gebruik van containerquery's.
 
+## Bronen:
+/* font bron: https://www.1001fonts.com/pixel-game-font.html */
+/* bron clamp:width: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/clamp; */
+    /* bron scale: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/transform-function/scale */
