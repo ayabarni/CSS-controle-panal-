@@ -162,6 +162,7 @@ main {
                 background: repeating-linear-gradient(106deg, transparent 0 18px,
                         rgb(255, 255, 255, .3) 18px 20px,
                         transparent 20px 35px);
+                /*bron repeating-linear-gradient:width: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/gradient/repeating-linear-gradient;  */
 
 
             }
